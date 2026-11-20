@@ -1,8 +1,8 @@
 # The World in One Day — Friday 20 November 2026
 
-[![competition](https://img.shields.io/badge/competition-news--image--20261120-blue)](https://make.fun)
-[![round](https://img.shields.io/badge/round-r3b-green)](https://make.fun)
-[![prize pool](https://img.shields.io/badge/prize%20pool-%24250%20top%2050-gold)](https://make.fun)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/besan11/news-image-20261120-r3b-local/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/besan11/news-image-20261120-r3b-local/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 Entry for the [make.fun](https://make.fun) bounty
 **news-image-20261120** — *Sum up 20 November's world news in one image*.
